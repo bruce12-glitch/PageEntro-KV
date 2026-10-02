@@ -1,0 +1,16 @@
+Task,PageEntroKV_Score
+qasper,38.6
+multifieldqa_en,44.2
+lcc,56.1
+narrativeqa,0.0
+hotpotqa,0.0
+musique,0.0
+gov_report,0.0
+qmsum,0.0
+multi_news,0.0
+trec,0.0
+triviaqa,0.0
+samsum,0.0
+passage_count,0.0
+passage_retrieval_en,0.0
+repobench-p,44.811675298882335
